@@ -1,0 +1,1 @@
+{"virtualbox":{"/mnt/bootstrap":{"guestpath":"/mnt/bootstrap","hostpath":"/home/towelie/code/ansible-migration/myapp/Vagrant-setup","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/towelie/code/ansible-migration/myapp","disabled":false,"__vagrantfile":true}}}
